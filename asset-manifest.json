@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/easy-shop/static/css/main.4b065abb.chunk.css",
+    "main.js": "/easy-shop/static/js/main.6aa725f0.chunk.js",
+    "main.js.map": "/easy-shop/static/js/main.6aa725f0.chunk.js.map",
+    "runtime-main.js": "/easy-shop/static/js/runtime-main.5da49bf5.js",
+    "runtime-main.js.map": "/easy-shop/static/js/runtime-main.5da49bf5.js.map",
+    "static/js/2.ebea9fbf.chunk.js": "/easy-shop/static/js/2.ebea9fbf.chunk.js",
+    "static/js/2.ebea9fbf.chunk.js.map": "/easy-shop/static/js/2.ebea9fbf.chunk.js.map",
+    "index.html": "/easy-shop/index.html",
+    "precache-manifest.7ce976c2ac081bb878300305e334b954.js": "/easy-shop/precache-manifest.7ce976c2ac081bb878300305e334b954.js",
+    "service-worker.js": "/easy-shop/service-worker.js",
+    "static/css/main.4b065abb.chunk.css.map": "/easy-shop/static/css/main.4b065abb.chunk.css.map",
+    "static/js/2.ebea9fbf.chunk.js.LICENSE.txt": "/easy-shop/static/js/2.ebea9fbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da49bf5.js",
+    "static/js/2.ebea9fbf.chunk.js",
+    "static/css/main.4b065abb.chunk.css",
+    "static/js/main.6aa725f0.chunk.js"
+  ]
+}
