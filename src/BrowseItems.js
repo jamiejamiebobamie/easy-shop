@@ -64,7 +64,6 @@ class BrowseItems extends Component {
 
     toggleCategories(props) {
         this.setState( { showCategories: !this.state.showCategories } );
-                console.log(this.state.showCategories)
     }
 
     render(){

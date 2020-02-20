@@ -11,7 +11,7 @@ function Items(props){
             <div className="item-text-price">${props.price}</div>
             <div className="item-text-category">{props.category}</div>
         </li>
-        <img className="itemImg" src="/imgs/product.png" alt=""/>
+        <img className="itemImg" src="imgs/product.png" alt=""/>
         </button>
     )
 }
