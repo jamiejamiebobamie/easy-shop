@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/easy-shop/static/css/main.4b065abb.chunk.css",
-    "main.js": "/easy-shop/static/js/main.50889810.chunk.js",
-    "main.js.map": "/easy-shop/static/js/main.50889810.chunk.js.map",
+    "main.js": "/easy-shop/static/js/main.59ab526f.chunk.js",
+    "main.js.map": "/easy-shop/static/js/main.59ab526f.chunk.js.map",
     "runtime-main.js": "/easy-shop/static/js/runtime-main.5da49bf5.js",
     "runtime-main.js.map": "/easy-shop/static/js/runtime-main.5da49bf5.js.map",
     "static/js/2.ebea9fbf.chunk.js": "/easy-shop/static/js/2.ebea9fbf.chunk.js",
     "static/js/2.ebea9fbf.chunk.js.map": "/easy-shop/static/js/2.ebea9fbf.chunk.js.map",
     "index.html": "/easy-shop/index.html",
-    "precache-manifest.afca2b000c82a123448711532bd4038d.js": "/easy-shop/precache-manifest.afca2b000c82a123448711532bd4038d.js",
+    "precache-manifest.65225d0cf1be4bb57c757d48a8a5151a.js": "/easy-shop/precache-manifest.65225d0cf1be4bb57c757d48a8a5151a.js",
     "service-worker.js": "/easy-shop/service-worker.js",
     "static/css/main.4b065abb.chunk.css.map": "/easy-shop/static/css/main.4b065abb.chunk.css.map",
     "static/js/2.ebea9fbf.chunk.js.LICENSE.txt": "/easy-shop/static/js/2.ebea9fbf.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5da49bf5.js",
     "static/js/2.ebea9fbf.chunk.js",
     "static/css/main.4b065abb.chunk.css",
-    "static/js/main.50889810.chunk.js"
+    "static/js/main.59ab526f.chunk.js"
   ]
 }
