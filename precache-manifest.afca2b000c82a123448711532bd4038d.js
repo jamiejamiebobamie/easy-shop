@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1ec936a84e3d12d7168f1ff4209e996",
+    "revision": "ece0bd63daca3e3aca79f4a8933d15ed",
     "url": "/easy-shop/index.html"
   },
   {
-    "revision": "c77a9fc1e74fc0578f39",
+    "revision": "e1764ce18079f5e93034",
     "url": "/easy-shop/static/css/main.4b065abb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/easy-shop/static/js/2.ebea9fbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c77a9fc1e74fc0578f39",
-    "url": "/easy-shop/static/js/main.6aa725f0.chunk.js"
+    "revision": "e1764ce18079f5e93034",
+    "url": "/easy-shop/static/js/main.50889810.chunk.js"
   },
   {
     "revision": "1602a026eb09fedd758f",
