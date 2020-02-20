@@ -11,7 +11,9 @@ function Items(props){
             <div className="item-text-price">${props.price}</div>
             <div className="item-text-category">{props.category}</div>
         </li>
-        <img className="itemImg" src="./imgs/product.png" alt=""/>
+        <img className="itemImg"
+             src="https://cdn0.iconfinder.com/data/icons/black-logistics-icons/256/Add_product_arrow.png"
+             alt=""/>
         </button>
     )
 }
